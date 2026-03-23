@@ -2,7 +2,7 @@
 This is my first Git Repository.
 <br>
 👨‍💻 Author - Kishan singh
-📚 {Library Management System} (C) Language
+📚 {Library Management System} (C) programming 
 
 A simple Library Management System built using the C programming language.
 This project allows users to manage book records efficiently using file handling.
