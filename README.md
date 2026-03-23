@@ -30,7 +30,7 @@ Library-Management-System/
 
 ⚙️ How to Run
 1. Clone the Repository
-git clone https://github.com/kishansingh23/library-management-system.git
+git clone https://github.com/kishansingh23/KS-Programming.git
 2. Navigate to Project Folder
 cd library-management-system
 3. Compile the Code
